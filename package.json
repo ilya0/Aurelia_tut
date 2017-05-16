@@ -1,0 +1,22 @@
+{
+  "name": "aurelia_tut",
+  "version": "1.0.0",
+  "description": "\"# Aurelia_tut\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilya0/Aurelia_tut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilya0/Aurelia_tut/issues"
+  },
+  "homepage": "https://github.com/ilya0/Aurelia_tut#readme",
+  "dependencies": {
+    "jspm": "^0.16.53"
+  }
+}
